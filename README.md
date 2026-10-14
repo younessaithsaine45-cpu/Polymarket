@@ -31,7 +31,8 @@ The main metric is **transaction count**. It measures recorded transaction frequ
 
 ### 4. Results and Visualization
 
-transactions_by_category.png
+![Transaction Count by Market Category](images/TransactionCount_chart.png)
+
 *Figure 1. Recorded transactions by market category (882 records).*
 
 | Market category | Transactions | Share |
