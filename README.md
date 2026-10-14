@@ -31,8 +31,8 @@ The main metric is **transaction count**. It measures recorded transaction frequ
 
 ### 4. Results and Visualization
 
-![Transaction Count by Market Category](images/TransactionCount_chart.png)
-
+[![Transaction Count by Market Category](images/TransactionCount_chart.png)
+](https://github.com/younessaithsaine45-cpu/Polymarket/blob/main/transactions_by_category.png?raw=true)
 *Figure 1. Recorded transactions by market category (882 records).*
 
 | Market category | Transactions | Share |
